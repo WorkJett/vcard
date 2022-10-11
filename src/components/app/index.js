@@ -67,7 +67,7 @@ export const App = () => {
             <QRCodeContainer>
               <QRCode></QRCode>
             </QRCodeContainer>
-            <Download id={'download'} download>Скачать</Download>
+            <Download id={'download'} download="qrcode.png">Скачать</Download>
           </>
         ) : (
           <form onSubmit={genQr}>
