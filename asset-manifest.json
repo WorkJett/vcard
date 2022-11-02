@@ -1,10 +1,18 @@
 {
   "files": {
-    "main.js": "/vcard/static/js/main.7a8d00b1.js",
+    "main.js": "/vcard/static/js/main.9d211d75.js",
+    "static/media/iPhone-XSMax_1242x2688_1_2-RU 1.png": "/vcard/static/media/iPhone-XSMax_1242x2688_1_2-RU 1.8b6e094c0bccccce04eb.png",
+    "static/media/iPhone-12-12Pro_1170x2532_1_2-RU 1.png": "/vcard/static/media/iPhone-12-12Pro_1170x2532_1_2-RU 1.b6d6a9a2854b8ba16365.png",
+    "static/media/iPhone-11-11Pro-X-XS_1125x2436_1_2-RU 1.png": "/vcard/static/media/iPhone-11-11Pro-X-XS_1125x2436_1_2-RU 1.f3d3580a2733c87362f6.png",
+    "static/media/iPhone-XSMax_1242x2688_1_2-RU 1 (1).png": "/vcard/static/media/iPhone-XSMax_1242x2688_1_2-RU 1 (1).fb330dc7a08ea3d5e583.png",
+    "static/media/iPhone-12-12Pro_1170x2532_1_2-RU 1 (1).png": "/vcard/static/media/iPhone-12-12Pro_1170x2532_1_2-RU 1 (1).b4347802da2a2259925b.png",
+    "static/media/iPhone-11-11Pro-X-XS_1125x2436_1_2-RU 1 (1).png": "/vcard/static/media/iPhone-11-11Pro-X-XS_1125x2436_1_2-RU 1 (1).47e46898cd73764a41db.png",
+    "static/media/iPhone-11_828x1792_1_2-RU 1.png": "/vcard/static/media/iPhone-11_828x1792_1_2-RU 1.d8a1fc8873ec0fe084e2.png",
+    "static/media/iPhone-11_828x1792_1_2-RU 1 (1).png": "/vcard/static/media/iPhone-11_828x1792_1_2-RU 1 (1).dcdc1c2a7b2663df3589.png",
     "index.html": "/vcard/index.html",
-    "main.7a8d00b1.js.map": "/vcard/static/js/main.7a8d00b1.js.map"
+    "main.9d211d75.js.map": "/vcard/static/js/main.9d211d75.js.map"
   },
   "entrypoints": [
-    "static/js/main.7a8d00b1.js"
+    "static/js/main.9d211d75.js"
   ]
 }
